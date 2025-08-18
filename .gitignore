@@ -1,0 +1,13 @@
+# Ignore dataset folders
+Dataset/
+Updated Dataset/
+SoyaHealthVision/
+Soyabean_Leaf_Image_Dataset/
+Soyabean_UAV-Based_Image_Dataset/
+
+# Ignore zip files
+*.zip
+
+# Ignore temporary files
+*.log
+*.tmp
